@@ -1,0 +1,11 @@
+﻿Build started 17/03/2016 17:26:54.
+     1>Project "C:\Users\ziv\AppData\Local\GitHub\TutorialRepository_a66c3719071da6d865a984bb8d6bfb5bcd775ec8\new-repo\Project1 Exr2B\Project1 Exr2B\Project1 Exr2B.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\ziv\AppData\Local\GitHub\TutorialRepository_a66c3719071da6d865a984bb8d6bfb5bcd775ec8\new-repo\Project1 Exr2B\Debug\Project1 Exr2B.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\ziv\AppData\Local\GitHub\TutorialRepository_a66c3719071da6d865a984bb8d6bfb5bcd775ec8\new-repo\Project1 Exr2B\Debug\Project1 Exr2B.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\ziv\AppData\Local\GitHub\TutorialRepository_a66c3719071da6d865a984bb8d6bfb5bcd775ec8\new-repo\Project1 Exr2B\Debug\Project1 Exr2B.lib" /MACHINE:X86 Debug\Lable.obj
+         Debug\Main.obj
+         Project1 Exr2B.vcxproj -> C:\Users\ziv\AppData\Local\GitHub\TutorialRepository_a66c3719071da6d865a984bb8d6bfb5bcd775ec8\new-repo\Project1 Exr2B\Debug\Project1 Exr2B.exe
+     1>Done Building Project "C:\Users\ziv\AppData\Local\GitHub\TutorialRepository_a66c3719071da6d865a984bb8d6bfb5bcd775ec8\new-repo\Project1 Exr2B\Project1 Exr2B\Project1 Exr2B.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.17
